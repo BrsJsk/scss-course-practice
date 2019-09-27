@@ -1,12 +1,12 @@
-button {
+.btn {
   padding: 2px 10px; 
   border: 1px #c46 solid;
   border-radius: 2px;
-  &.btn-primary {
+  &-primary {
     color: white;
     background: #c46;
   }
-  &.btn-secondary {
+  &-secondary {
     color: black;
     background: #edbcc8;
   }
